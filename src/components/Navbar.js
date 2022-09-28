@@ -1,7 +1,7 @@
 import React from "react";
 import "./NavbarStyles.css";
 import { Link } from "react-router-dom";
-import {FaBars} from "react-icons/fa";
+import {FaBars, FaTimes } from "react-icons/fa";
 
 
 const Navbar = () => {
@@ -25,7 +25,7 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="hamburger">
-        <FaBars />
+        <FaBars size={20} style={{color: "whitesmoke"}} />
       </div>
     </div>
   );
