@@ -1,3 +1,6 @@
+/* ---- General Styles---- */
+
+
 @import url("https://fonts.googleapis.com/css2?family=Alex+Brush&family=Catamaran&family=Montserrat:wght@200;600&family=Outfit:wght@100;300;400;500;600;700;800&display=swap");
 
 * {
@@ -47,4 +50,125 @@ code {
 
 .btn:hover {
   background: rgb(9, 65, 118);
+}
+
+/* ----Nav bar styles ---- */
+
+.header {
+  position: fixed;
+  width: 100%;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  z-index: 10;
+}
+
+.nav-menu {
+  display: flex;
+}
+
+.nav-menu li {
+  padding: 0 1rem;
+}
+
+.nav-menu a {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.hamburger {
+  display: none;
+}
+
+@media screen and (max-width: 1240px) {
+  .hamburger{
+      display: block;
+  }
+
+  /* Nav bar dropdown styles below:  */
+  .nav-menu {
+      position: absolute;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      top: 0;
+      left: -100%;   /* positioned off screen untill active style displayed  */
+      text-align: center;
+      width: 100%;
+      height: 100vh;
+      transition: 0.3s;
+      z-index: -1;
+      background: black;
+  }
+
+  .nav-menu.active {
+      left: 0
+  }
+
+  .nav-menu li {
+      padding: 1rem 0;
+  }
+}
+
+
+
+/* ----Video Styles ----*/
+
+#video {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.hero {
+  height: 100vh;
+  width: 100%;
+  object-fit: contain;
+}
+
+.hero .content {
+  text-align: center;
+  position: absolute;
+  margin: auto;
+  padding: 10%;
+  width: 100%;
+  height: 100%;
+  top: 20vh;
+}
+.hero h1 {
+  font-size: 2.8rem;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 8px #06002e;
+}
+.hero p {
+  font-size: 1.5rem;
+  font-weight: 100;
+  text-shadow: 2px 2px 2px #06002e;
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 700px) {
+    .content h1{
+        font-size: 2.2rem;
+        margin-bottom: 0.5rem;
+    }
+    .hero p {
+        font-size: 1.4rem;
+    }
+    
+    
+}
+
+
+
+/* ---- Footer Styles ---- */
+
+.location-icon {
+  size: 10px;
+  font-size: 2rem;
+  margin: 2rem;
 }
