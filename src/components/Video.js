@@ -10,7 +10,7 @@ const Video = () => {
             <source src={spaceVideo} type="video/mp4" />
         </video>
         <div className='content'> 
-        <h1> Space: the final frontier.</h1>
+        <h1> Space: the final frontier</h1>
         <p> It's a five-year mission to explore strange new worlds, to seek our new life and new civilizations, to boldly go where no man has gone before.</p>
         </div>
         <div>
