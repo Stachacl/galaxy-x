@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/galaxy-x/static/css/main.c142a42e.css",
+    "main.js": "/galaxy-x/static/js/main.3f7b6a83.js",
+    "static/media/space.mp4": "/galaxy-x/static/media/space.41584ed51700d249bf73.mp4",
+    "index.html": "/galaxy-x/index.html",
+    "main.c142a42e.css.map": "/galaxy-x/static/css/main.c142a42e.css.map",
+    "main.3f7b6a83.js.map": "/galaxy-x/static/js/main.3f7b6a83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c142a42e.css",
+    "static/js/main.3f7b6a83.js"
+  ]
+}
