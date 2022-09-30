@@ -167,8 +167,36 @@ code {
 
 /* ---- Footer Styles ---- */
 
-.location-icon {
-  size: 10px;
-  font-size: 2rem;
-  margin: 2rem;
+.footer {
+  margin: 0.5rem;
+}
+
+.footer-container {
+  background-color: rgb(9, 65, 118, 0.5);
+  padding: 0.5rem;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 40px;
+}
+
+.footer .left {
+  padding-right: 2rem;
+}
+
+.footer-icon {
+  size: 3px;
+  font-size: 1rem;
+  margin-bottom: 0.2rem;
+  margin-top: 1rem;
+}
+
+.footer-icon .right {
+  margin-right: 2rem;
+}
+
+.footer .right {
+  /* display: flex;
+  flex-direction: column; */
+  margin-top: 0.5rem;
 }
