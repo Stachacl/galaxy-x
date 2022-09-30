@@ -35,7 +35,7 @@ const Footer = () => {
 
 
             <div className='right'>
-             
+              <div>
                  <p> Join our award winning team and follow us on social media.
                  </p>
         
@@ -45,7 +45,7 @@ const Footer = () => {
                     <FaLinkedin className='footer-icon right'/>
                     </div>
                  </div>
-            
+              </div>
         </div>
     </div>
   )
