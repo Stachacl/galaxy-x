@@ -5,7 +5,7 @@ import spaceVideo from "../assets/space.mp4";
 const Video = () => {
   return (
     <div className="hero">
-      <video autoPlay loop muted id="video">
+      <video autoPlay controls="false" loop muted id="video">
         <source src={spaceVideo} type="video/mp4" />
       </video>
 
