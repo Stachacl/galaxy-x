@@ -1,6 +1,8 @@
 # React App
 
-Website made in React JS
+Website for non-existing services. 
+
+I've built this website to practice React JS. 
 
 Please see it on Heroku:
 
