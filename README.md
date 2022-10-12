@@ -1,7 +1,7 @@
 # React App
 
-Website for non-existing services. 
-
+Marketing purposes website. 
+ 
 I've built this website to practice React JS. 
 
 Please see it on Heroku:
