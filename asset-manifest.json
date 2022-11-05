@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/galaxy-x/static/css/main.cb6cdfa5.css",
-    "main.js": "/galaxy-x/static/js/main.47a0f4e2.js",
+    "main.js": "/galaxy-x/static/js/main.7766d9ff.js",
     "static/media/space.mp4": "/galaxy-x/static/media/space.41584ed51700d249bf73.mp4",
     "static/media/heroImg.jpg": "/galaxy-x/static/media/heroImg.6cb37091519b3d087ccc.jpg",
     "index.html": "/galaxy-x/index.html",
     "main.cb6cdfa5.css.map": "/galaxy-x/static/css/main.cb6cdfa5.css.map",
-    "main.47a0f4e2.js.map": "/galaxy-x/static/js/main.47a0f4e2.js.map"
+    "main.7766d9ff.js.map": "/galaxy-x/static/js/main.7766d9ff.js.map"
   },
   "entrypoints": [
     "static/css/main.cb6cdfa5.css",
-    "static/js/main.47a0f4e2.js"
+    "static/js/main.7766d9ff.js"
   ]
 }
