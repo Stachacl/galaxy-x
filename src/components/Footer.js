@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaTwitter, FaGithub, FaLinkedin, FaPhone, FaSearchLocation, FaMailBulk } from 'react-icons/fa'
-import { Link } from 'react-router-dom'
+
 
 
 const Footer = () => {
@@ -31,18 +31,23 @@ const Footer = () => {
                     <p> tiberius@space-x.com </p>
                 </div>
 
+
             </div>
 
 
             <div className='right'>
               <div>
-                 <p> Join our award winning team and follow us on social media.
+                 <p> This website was created by Stacha Clemens. If you wish to contact her - please connect via Twitter
                  </p>
         
                  <div className='footer-icon right'> 
-                    <FaGithub className='footer-icon right' />
-                    <FaTwitter className='footer-icon right'/>
-                    <FaLinkedin className='footer-icon right'/>
+                   <a href=" https://github.com/Stachacl/galaxy-x"> <FaGithub className='footer-icon right' /> </a> 
+                   <a href="https://twitter.com/Stacha_cl">  <FaTwitter className='footer-icon right'/>  </a> 
+                   <a href="https://twitter.com/Stacha_cl">  <FaLinkedin className='footer-icon right'/> </a> 
+
+                   {/* <a href="https://uxdesign.cc/how-to-get-the-most-out-of-the-alt-attribute-4c9b553ca9d9"> <i><FaLinkedin className='footer-icon right'/></i> </a> */}
+
+             
                     </div>
                  </div>
               </div>
