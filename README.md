@@ -1,6 +1,8 @@
 # React App
 
-Website made in React JS
+Marketing purposes website. 
+ 
+I've built this website to practice React JS. 
 
 Please see it on Heroku:
 
