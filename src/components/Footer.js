@@ -37,13 +37,13 @@ const Footer = () => {
 
             <div className='right'>
               <div>
-                 <p> This website was created by Stacha Clemens. If you wish to contact her - please connect via Twitter
+                 <p> This website was created by Stacha Clemens. If you wish to contact her - please connect via social media. 
                  </p>
         
                  <div className='footer-icon right'> 
                    <a href=" https://github.com/Stachacl/galaxy-x"> <FaGithub className='footer-icon right' /> </a> 
                    <a href="https://twitter.com/Stacha_cl">  <FaTwitter className='footer-icon right'/>  </a> 
-                   <a href="https://twitter.com/Stacha_cl">  <FaLinkedin className='footer-icon right'/> </a> 
+                   <a href="https://www.linkedin.com/in/stacha-c-a7b3b51bb/">  <FaLinkedin className='footer-icon right'/> </a> 
 
                    {/* <a href="https://uxdesign.cc/how-to-get-the-most-out-of-the-alt-attribute-4c9b553ca9d9"> <i><FaLinkedin className='footer-icon right'/></i> </a> */}
 
