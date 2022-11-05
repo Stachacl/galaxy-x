@@ -12,5 +12,6 @@ https://galaxy-x.herokuapp.com (free Herocu account limitations from December 20
 
 <img src="https://ik.imagekit.io/stcl/github/Screen_Shot_galaxy-x_BVnTCwTQR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664511007687" >
 
-##Content inspiration
-"Star Trek: [https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series](The Original Series)"
+## Content inspiration
+
+"Star Trek: [The Original Series](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series) "
