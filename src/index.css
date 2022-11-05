@@ -163,6 +163,10 @@ code {
   justify-content: center ;
 }
 
+.pb2 {
+  padding-bottom: 2rem;
+}
+
 @media screen and (max-width: 700px) {
     .content h1{
         font-size: 2.2rem;
