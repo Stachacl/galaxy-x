@@ -12,7 +12,7 @@ https://galaxy-x.herokuapp.com (free Herocu account limitations from December 20
 
 <img src="https://ik.imagekit.io/stcl/github/Screen_Shot_galaxy-x_BVnTCwTQR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664511007687" >
 
-<img src="https://imgflip.com/gif/6zsj5f">
+<img src="https://ik.imagekit.io/stcl/github/Screen_Shot_galaxy-x_BVnTCwTQR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664511007687">
 
 ### Features
 
