@@ -12,16 +12,16 @@ https://galaxy-x.herokuapp.com (free Herocu account limitations from December 20
 
 <img src="https://ik.imagekit.io/stcl/github/Screen_Shot_galaxy-x_BVnTCwTQR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664511007687" >
 
-<img src="https://ik.imagekit.io/stcl/github/6zsj5f_TbUDJelYx.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1667792782696">
-
 ### Features
 
 - Fully responcive app, mobile first approach
 - Navbar displayed as sidebar on small screens
-- Background video in Hero section
 - Contact form
 - Responcive Footer
 - No style libraries, CSS only
+- Background video in Hero section
+
+<img src="https://ik.imagekit.io/stcl/github/6zsj5f_TbUDJelYx.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1667792782696">
 
 ### Content inspiration
 
